@@ -1,1 +1,1 @@
-# ypmakefile
+# Linux ypserv Makefile autofs fixes
