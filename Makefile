@@ -4,7 +4,7 @@ AUTO_MAPS = auto.master auto.misc
 ..
 ..
 
-# rules 
+# replace all autofs rules with 
 autofs: $(AUTO_MAPS)
 
 $(AUTO_MAPS): %: $(YPSRCDIR)/%
